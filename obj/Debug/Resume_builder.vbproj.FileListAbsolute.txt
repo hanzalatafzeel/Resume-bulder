@@ -1,0 +1,14 @@
+C:\Users\huzai\source\repos\Resume_builder\bin\Debug\Resume_builder.exe.config
+C:\Users\huzai\source\repos\Resume_builder\bin\Debug\Resume_builder.exe
+C:\Users\huzai\source\repos\Resume_builder\bin\Debug\Resume_builder.pdb
+C:\Users\huzai\source\repos\Resume_builder\bin\Debug\Resume_builder.xml
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.vbproj.AssemblyReference.cache
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.vbproj.SuggestedBindingRedirects.cache
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.Form1.resources
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.Resources.resources
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.vbproj.GenerateResource.cache
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.vbproj.CoreCompileInputs.cache
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.exe
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.xml
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.pdb
+C:\Users\huzai\source\repos\Resume_builder\obj\Debug\Resume_builder.Form2.resources
